@@ -5,6 +5,7 @@ This project aims to predict hospital readmission in diabetic patients using str
 <p align="center">
   <img src="images/hosptial-readmission-rate.png" alt="Hospital Risk Predictor Image" width="650"/>
 </p>
+
 ---
 
 ## 📊 Dataset Overview
