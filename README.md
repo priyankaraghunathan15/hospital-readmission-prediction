@@ -3,7 +3,7 @@
 This project aims to predict hospital readmission in diabetic patients using structured clinical data. Leveraging machine learning models like Logistic Regression, Random Forest, and XGBoost, the goal is to identify patients at risk of being readmitted within 30 days after discharge — a key challenge in improving care quality and reducing healthcare costs.
 
 <p align="center">
-  <img src="images/hosptial-readmission-rate.jpeg" alt="Hospital Risk Predictor Image" width="500"/>
+  <img src="images/hosptial-readmission-rate.png" alt="Hospital Risk Predictor Image" width="500"/>
 </p>
 ---
 
