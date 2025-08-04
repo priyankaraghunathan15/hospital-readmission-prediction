@@ -1,4 +1,4 @@
-# Hospital Readmission Risk Prediction
+<h1 align="center">Hospital Readmission Risk Prediction</h1>
 
 This project aims to predict hospital readmission in diabetic patients using structured clinical data. Leveraging machine learning models like Logistic Regression, Random Forest, and XGBoost, the goal is to identify patients at risk of being readmitted within 30 days after discharge - a key challenge in improving care quality and reducing healthcare costs.
 
@@ -8,7 +8,7 @@ This project aims to predict hospital readmission in diabetic patients using str
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - **Source**: UCI Machine Learning Repository  
 - **Records**: Over 100,000 anonymized inpatient visits  
@@ -17,7 +17,7 @@ This project aims to predict hospital readmission in diabetic patients using str
 
 ---
 
-## 🔄 Workflow Summary
+## Workflow Summary
 
 1. **Data Cleaning**
    - Dropped patient identifiers
@@ -39,7 +39,7 @@ This project aims to predict hospital readmission in diabetic patients using str
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Model              | Accuracy | AUC   |
 |-------------------|----------|-------|
@@ -52,7 +52,7 @@ This project aims to predict hospital readmission in diabetic patients using str
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
@@ -72,7 +72,7 @@ This project aims to predict hospital readmission in diabetic patients using str
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - **Top Predictors**: Number of inpatient stays, number of diagnoses, and length of hospitalization
 - **SMOTE** improved recall for minority class but requires careful cross-validation to avoid overfitting
@@ -80,7 +80,7 @@ This project aims to predict hospital readmission in diabetic patients using str
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 This project demonstrates the value of machine learning in predicting 30-day hospital readmissions among diabetic patients. While the models achieved high accuracy, moderate AUC scores suggest room for improvement. Future work could include:
 
